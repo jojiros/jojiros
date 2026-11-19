@@ -13,7 +13,7 @@ At QBurst, I built and maintained production backend services, REST APIs, micros
 
 ## 🚀 Featured Projects
 
-### [Retrieval-Augmented Generation for Question Answering](https://github.com/jojiros/RAG)
+### Retrieval-Augmented Generation for Question Answering
 
 Built an open-domain question-answering pipeline using BM25 retrieval and an LLM through the Hugging Face Inference API, with evidence-grounded prompting and answer abstention.
 
@@ -23,11 +23,11 @@ Built an open-domain question-answering pipeline using BM25 retrieval and an LLM
 
 ### [Multilingual Prompting: Numerical Understanding in LLMs](https://github.com/jojiros/multilingual-numerical-probing)
 
-Evaluated Llama 3.1 8B Instruct across English, French, Danish and Japanese to investigate how number formats and sentence context influence numerical understanding.
+Evaluated Llama 3.1 8B Instruct on numerical understanding across English, French, Danish and Japanese, comparing digit, word and mixed number formats in bare and sentence contexts.
 
-**Scale:** 48 experimental conditions and 9,600 model queries.
+**Scale:** 8,000 model queries.
 
-`Python` `LLM Evaluation` `Multilingual NLP` `Prompt Engineering`
+`Python` `LLM Evaluation` `Multilingual NLP` `Prompting`
 
 ### AI/ML Job Market Salary Prediction & Analysis
 
@@ -54,7 +54,6 @@ Analysed AI/ML job postings across nine countries, engineered features, compared
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [Rose Joji](https://www.linkedin.com/in/rose-joji-6b004b196)
-- **Email:** [rosjoji@gmail.com](mailto:rosjoji@gmail.com)
 
 Always happy to connect with people working in software engineering, NLP and applied AI!
 
