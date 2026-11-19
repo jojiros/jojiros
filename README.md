@@ -1,16 +1,60 @@
-## Hi there 👋
 
-<!--
-**jojiros/jojiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rose Joji 👋
 
-Here are some ideas to get you started:
+**Software Engineer | NLP & Applied AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer with **3 years of backend development experience**, currently pursuing an **M.Sc. in Natural Language Processing at the University of Trier, Germany**.
+
+At QBurst, I built and maintained production backend services, REST APIs, microservices and Kafka-based data pipelines using Go and PostgreSQL. I'm now combining that engineering foundation with NLP and machine learning, exploring retrieval-augmented generation, LLM evaluation and information retrieval through hands-on projects.
+
+🔍 **Open to:** Working student positions, internships and entry-level opportunities in Software Engineering, NLP and ML Engineering in Germany and Luxembourg.
+
+---
+
+## 🚀 Featured Projects
+
+### [Retrieval-Augmented Generation for Question Answering](https://github.com/jojiros/RAG)
+
+Built an open-domain question-answering pipeline using BM25 retrieval and an LLM through the Hugging Face Inference API, with evidence-grounded prompting and answer abstention.
+
+**Result:** Improved Exact Match from 4.0% to 22.5% on 200 Natural Questions samples.
+
+`Python` `RAG` `BM25` `Hugging Face` `LLMs`
+
+### [Multilingual Prompting: Numerical Understanding in LLMs](https://github.com/jojiros/multilingual-numerical-probing)
+
+Evaluated Llama 3.1 8B Instruct across English, French, Danish and Japanese to investigate how number formats and sentence context influence numerical understanding.
+
+**Scale:** 48 experimental conditions and 9,600 model queries.
+
+`Python` `LLM Evaluation` `Multilingual NLP` `Prompt Engineering`
+
+### AI/ML Job Market Salary Prediction & Analysis
+
+Analysed AI/ML job postings across nine countries, engineered features, compared multiple machine learning models and developed a Salary Advisor using predicted salary estimates.
+
+`Python` `pandas` `scikit-learn` `Machine Learning`
+
+---
+
+## 🔧 Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Go, Python, SQL |
+| **NLP / ML** | RAG, LLMs, Prompt Engineering, Model Evaluation, Information Retrieval (BM25) |
+| **Python & Data** | pandas, NumPy, scikit-learn |
+| **Backend** | REST APIs, Microservices, GORM, Swagger/OpenAPI |
+| **Databases & Messaging** | PostgreSQL, MySQL, Apache Kafka |
+| **Cloud & DevOps** | Docker, AWS (ECS, S3), Jenkins, CI/CD |
+| **Tools** | Git, GitHub, GitLab, Jira, Kibana |
+
+---
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [Rose Joji](https://www.linkedin.com/in/rose-joji-6b004b196)
+- **Email:** [rosjoji@gmail.com](mailto:rosjoji@gmail.com)
+
+Always happy to connect with people working in software engineering, NLP and applied AI!
+
